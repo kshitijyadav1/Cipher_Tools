@@ -1,2 +1,7 @@
 # Cipher_Tools
-Sshh....! secret don't tell anyone...
+Project list
+Date: 5/6/2020 
+
+Text to morse code converter and player.
+
+with xxx creation from (KY)
